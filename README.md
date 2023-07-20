@@ -2,7 +2,7 @@
 <h3 align="center">I am a German node.js developer who enjoys coding Discord bots with a passion.</h3>
 <h1></h1>
 
-🔭 I’m currently working on [Discord.js Command Handler](https://github.com/MastiderMast/Discord.js-Advanced-Command-Handler)<br>🌱 I’m currently learning **React**<br>📫 How to reach me **mastidermast@gmail.com** or **[@mastidev](https://discord.com/users/765574410119282749)** on Discord<br>
+🔭 I’m currently working on [Discord.js Command Handler](https://github.com/MastiderMast/Discord.js-Advanced-Command-Handler)<br>🌱 I’m currently learning **React**<br>📫 How to reach me **[@mastidev](https://discord.com/users/765574410119282749)** on Discord<br>
 
 
 # 💻 Tech Stack:
